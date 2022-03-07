@@ -20,7 +20,7 @@ plugins = dict(
 )
 
 Client(
-    "YouTubeDlBot",
+    "SM_YTDLBOT",
     bot_token=TOKEN,
     api_id=APP_ID,
     api_hash=API_HASH,
